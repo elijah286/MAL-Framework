@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='windows-1252' standalone='yes'?>
+<MetaData>
+
+<ProjectTemplate>
+  <Title>New Measurement Template</Title>
+  <MetaDataClass>scripting/MsmtMetaDataObj/MeasurementMetaData.lvclass</MetaDataClass>
+  <Description>Creates a new measurement plugin from template</Description>
+  <Filters>Demonstrations:Measurement System</Filters>
+  <LocationPath>Measurement</LocationPath>
+  <ProjectPath>Measurement Prototype.lvproj</ProjectPath>>
+  <ListboxImagePath>images/blankproj.png</ListboxImagePath>
+  <CustomVIMode>AfterPage2NoUI</CustomVIMode>
+  <CustomVIPath>scripting/MsmtMetaDataObj/PostCopyScripting.vi</CustomVIPath> 
+  <SortPriority>700</SortPriority>
+</ProjectTemplate>
+
+<ProjectTemplate>
+  <Title>New HW Device Template</Title>
+  <MetaDataClass>scripting/HWMetaDataObj/HWMetaData.lvclass</MetaDataClass>
+  <Description>Creates a new hardware device plugin from template</Description>
+  <Filters>Demonstrations:Measurement System</Filters>
+  <LocationPath>Hardware</LocationPath>
+  <ProjectPath>Hardware Template.lvproj</ProjectPath>>
+  <ListboxImagePath>images/blankproj.png</ListboxImagePath>
+  <CustomVIMode>AfterPage2NoUI</CustomVIMode>
+  <CustomVIPath>scripting/HWMetaDataObj/PostCopyScripting.vi</CustomVIPath> 
+  <SortPriority>701</SortPriority>
+</ProjectTemplate>
+
+</MetaData>

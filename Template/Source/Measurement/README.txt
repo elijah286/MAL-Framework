@@ -1,0 +1,1 @@
+The build specification for this plugin has already been configured to create a source distribution. It is recommended that you change the prefix for files in depependencies for each measurement you create to avoid collisions when loaded
