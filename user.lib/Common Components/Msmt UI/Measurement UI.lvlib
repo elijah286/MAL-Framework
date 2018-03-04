@@ -16,5 +16,6 @@
 		<Item Name="Tell Controller to Launch Settings Dialog Msg.lvclass" Type="LVClass" URL="../Messages/Tell Controller to Launch Settings Dialog Msg/Tell Controller to Launch Settings Dialog Msg.lvclass"/>
 		<Item Name="Update Hardware Displayed Msg.lvclass" Type="LVClass" URL="../Messages/Update Hardware Displayed Msg/Update Hardware Displayed Msg.lvclass"/>
 	</Item>
+	<Item Name="Launch Hardware Settings Msg.lvclass" Type="LVClass" URL="../../Measurement UI Messages/Launch Hardware Settings Msg/Launch Hardware Settings Msg.lvclass"/>
 	<Item Name="Measurement UI.lvclass" Type="LVClass" URL="../Measurement UI.lvclass"/>
 </Library>

@@ -12,4 +12,5 @@
 		<Item Name="Measure Msg.lvclass" Type="LVClass" URL="../Messages/Measure Msg/Measure Msg.lvclass"/>
 	</Item>
 	<Item Name="Measurement.lvclass" Type="LVClass" URL="../Measurement.lvclass"/>
+	<Item Name="Msmt Configuration.lvclass" Type="LVClass" URL="../Configuration/Msmt Configuration.lvclass"/>
 </Library>

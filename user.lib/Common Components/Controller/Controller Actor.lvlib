@@ -7,6 +7,7 @@
 	<Item Name="Messages" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Launch Measurements Message.lvclass" Type="LVClass" URL="../Messages/Launch Measurements Message/Launch Measurements Message.lvclass"/>
+		<Item Name="Launch Hardware Settings Dialog Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Launch Hardware Settings Dialog Msg/Launch Hardware Settings Dialog Msg.lvclass"/>
 		<Item Name="Find Devices of Specified Type Msg.lvclass" Type="LVClass" URL="../Messages/Find Devices of Specified Type Msg/Find Devices of Specified Type Msg.lvclass"/>
 		<Item Name="Respond with Devices for Measurement Msg.lvclass" Type="LVClass" URL="../Messages/Respond with Devices for Measurement Msg/Respond with Devices for Measurement Msg.lvclass"/>
 		<Item Name="Launch User Interface Msg.lvclass" Type="LVClass" URL="../Messages/Launch UI Message/Launch User Interface Msg.lvclass"/>

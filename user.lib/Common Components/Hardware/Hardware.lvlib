@@ -5,13 +5,31 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Abstract Devices" Type="Folder">
-		<Item Name="Cooling System.lvclass" Type="LVClass" URL="../Cooling System/Cooling System.lvclass"/>
-		<Item Name="DAQ .lvclass" Type="LVClass" URL="../DAQ/DAQ .lvclass"/>
-		<Item Name="DMM.lvclass" Type="LVClass" URL="../DMM/DMM.lvclass"/>
-		<Item Name="Function Generator.lvclass" Type="LVClass" URL="../FGEN/Function Generator.lvclass"/>
-		<Item Name="PSU.lvclass" Type="LVClass" URL="../PSU/PSU.lvclass"/>
-		<Item Name="Scope.lvclass" Type="LVClass" URL="../Scope/Scope.lvclass"/>
-		<Item Name="Thermal Chamber.lvclass" Type="LVClass" URL="../Thermal Chamber/Thermal Chamber.lvclass"/>
+		<Item Name="Cooling System" Type="Folder">
+			<Item Name="Cooling System.lvclass" Type="LVClass" URL="../Cooling System/Cooling System.lvclass"/>
+		</Item>
+		<Item Name="DAQ" Type="Folder">
+			<Item Name="DAQ .lvclass" Type="LVClass" URL="../DAQ/DAQ .lvclass"/>
+			<Item Name="DAQ Configuration.lvclass" Type="LVClass" URL="../DAQ/config/DAQ Configuration.lvclass"/>
+		</Item>
+		<Item Name="DMM" Type="Folder">
+			<Item Name="DMM.lvclass" Type="LVClass" URL="../DMM/DMM.lvclass"/>
+		</Item>
+		<Item Name="Function Generator" Type="Folder">
+			<Item Name="Function Generator.lvclass" Type="LVClass" URL="../FGEN/Function Generator.lvclass"/>
+		</Item>
+		<Item Name="Hardware" Type="Folder">
+			<Item Name="Hardware.lvclass" Type="LVClass" URL="../Hardware.lvclass"/>
+		</Item>
+		<Item Name="PSU" Type="Folder">
+			<Item Name="PSU.lvclass" Type="LVClass" URL="../PSU/PSU.lvclass"/>
+		</Item>
+		<Item Name="Scope" Type="Folder">
+			<Item Name="Scope.lvclass" Type="LVClass" URL="../Scope/Scope.lvclass"/>
+		</Item>
+		<Item Name="Thermal" Type="Folder">
+			<Item Name="Thermal Chamber.lvclass" Type="LVClass" URL="../Thermal Chamber/Thermal Chamber.lvclass"/>
+		</Item>
 	</Item>
-	<Item Name="Hardware.lvclass" Type="LVClass" URL="../Hardware.lvclass"/>
+	<Item Name="HW Configuration.lvclass" Type="LVClass" URL="../HW Config/HW Configuration.lvclass"/>
 </Library>
