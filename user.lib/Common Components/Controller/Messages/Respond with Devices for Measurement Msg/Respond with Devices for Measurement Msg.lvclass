@@ -50,7 +50,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">8388608</Property>
 		</Item>
-		<Item Name="Write Measurement Name.vi" Type="VI" URL="../Write Measurement Name.vi">
+		<Item Name="write measurement requesting hardware devices.vi" Type="VI" URL="../write measurement requesting hardware devices.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&amp;!!!!"1!%!!!!A%"Q!"Y!!%E71W^O&gt;(*P&lt;'RF=C""9X2P=CZM&gt;GRJ9D"3:8.Q&lt;WZE)(&gt;J&gt;'AA2'6W;7.F=S"G&lt;X)A476B=X6S:7VF&lt;H1A48.H,GRW9WRB=X-!,&amp;*F=X"P&lt;G1A&gt;WFU;#"%:8:J9W6T)':P=C".:7&amp;T&gt;8*F&lt;76O&gt;#".=W=A&lt;X6U!!!;1$$`````%%VF98.V=G6N:7ZU)%ZB&lt;75!!(Z!=!!?!!"*&amp;E.P&lt;H2S&lt;WRM:8)A17.U&lt;X)O&lt;(:M;7)Q5G6T='^O:#"X;82I)%2F&gt;GFD:8-A:G^S)%VF98.V=G6N:7ZU)%VT:SZM&gt;G.M98.T!#N3:8.Q&lt;WZE)(&gt;J&gt;'AA2'6W;7.F=S"G&lt;X)A476B=X6S:7VF&lt;H1A48.H)'FO!'%!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!A!$!A!!?!!!!!!!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>

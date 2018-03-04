@@ -18,9 +18,6 @@
 		<Item Name="Function Generator" Type="Folder">
 			<Item Name="Function Generator.lvclass" Type="LVClass" URL="../FGEN/Function Generator.lvclass"/>
 		</Item>
-		<Item Name="Hardware" Type="Folder">
-			<Item Name="Hardware.lvclass" Type="LVClass" URL="../Hardware.lvclass"/>
-		</Item>
 		<Item Name="PSU" Type="Folder">
 			<Item Name="PSU.lvclass" Type="LVClass" URL="../PSU/PSU.lvclass"/>
 		</Item>
@@ -30,6 +27,9 @@
 		<Item Name="Thermal" Type="Folder">
 			<Item Name="Thermal Chamber.lvclass" Type="LVClass" URL="../Thermal Chamber/Thermal Chamber.lvclass"/>
 		</Item>
+	</Item>
+	<Item Name="Hardware" Type="Folder">
+		<Item Name="Hardware.lvclass" Type="LVClass" URL="../Hardware.lvclass"/>
 	</Item>
 	<Item Name="HW Configuration.lvclass" Type="LVClass" URL="../HW Config/HW Configuration.lvclass"/>
 </Library>

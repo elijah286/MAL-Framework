@@ -5,7 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
-		<Item Name="Acquire Continuously Msg.lvclass" Type="LVClass" URL="../Messages/Acquire Continuously Msg/Acquire Continuously Msg.lvclass"/>
 		<Item Name="Acquire Msg.lvclass" Type="LVClass" URL="../Messages/Acquire Msg/Acquire Msg.lvclass"/>
 		<Item Name="Close Msg.lvclass" Type="LVClass" URL="../Messages/Close Msg/Close Msg.lvclass"/>
 		<Item Name="Configure Msg.lvclass" Type="LVClass" URL="../Messages/Configure Msg/Configure Msg.lvclass"/>

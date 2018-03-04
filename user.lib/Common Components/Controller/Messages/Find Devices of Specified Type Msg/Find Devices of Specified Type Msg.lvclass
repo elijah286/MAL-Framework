@@ -32,7 +32,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Accessors" Type="Folder">
-		<Item Name="Write Measurement Name.vi" Type="VI" URL="../Write Measurement Name.vi">
+		<Item Name="Write measurement name requesting hardware of a specific type.vi" Type="VI" URL="../Write measurement name requesting hardware of a specific type.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;N!!!!"1!%!!!!&gt;%"Q!"Y!!%-71W^O&gt;(*P&lt;'RF=C""9X2P=CZM&gt;GRJ9CJ';7ZE)%2F&gt;GFD:8-A&lt;W9A5X"F9WFG;76E)&amp;2Z='5A48.H,GRW9WRB=X-!*E:J&lt;G1A2'6W;7.F=S"P:C"4='6D;7:J:71A6(FQ:3".=W=A&lt;X6U!!!;1$$`````%%VF98.V=G6N:7ZU)%ZB&lt;75!!(*!=!!?!!"$&amp;E.P&lt;H2S&lt;WRM:8)A17.U&lt;X)O&lt;(:M;7)K2GFO:#"%:8:J9W6T)'^G)&amp;.Q:7.J:GFF:#"5?8"F)%VT:SZM&gt;G.M98.T!#6';7ZE)%2F&gt;GFD:8-A&lt;W9A5X"F9WFG;76E)&amp;2Z='5A48.H)'FO!'%!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!A!$!A!!?!!!!!!!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
