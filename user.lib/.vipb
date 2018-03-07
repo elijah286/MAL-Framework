@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2013-07-29 22:13:56" Modified_Date="2018-03-05 22:03:53" Creator="Elijah Kerry" Comments="" ID="e82acc6f19ee983ac29033baa5536f96">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2013-07-29 22:13:56" Modified_Date="2018-03-05 22:14:50" Creator="Elijah Kerry" Comments="" ID="4f935753edccc1eff6c80f5fe1bd652f">
   <Library_General_Settings>
     <Package_File_Name>national_instruments_lib_msmt_framework_common_components</Package_File_Name>
-    <Library_Version>4.0.4.61</Library_Version>
+    <Library_Version>4.0.4.62</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\Desktop\Build Output</Library_Output_Folder>

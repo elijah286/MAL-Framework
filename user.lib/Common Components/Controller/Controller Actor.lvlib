@@ -22,6 +22,9 @@
 		<Item Name="Send Results Object.lvclass" Type="LVClass" URL="../Messages/Send Results Object/Send Results Object.lvclass"/>
 		<Item Name="Add Available Measurement Msg.lvclass" Type="LVClass" URL="../Messages/Add Available Measurement Msg/Add Available Measurement Msg.lvclass"/>
 		<Item Name="Measurements Scan Msg.lvclass" Type="LVClass" URL="../Messages/Measurements Scan Msg/Measurements Scan Msg.lvclass"/>
+		<Item Name="Apply Hardware Configurations Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Apply Hardware Configurations Msg/Apply Hardware Configurations Msg.lvclass"/>
+		<Item Name="Apply Step Configuration Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Apply Step Configuration Msg/Apply Step Configuration Msg.lvclass"/>
+		<Item Name="Launch Step Configuration Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Launch Step Configuration Msg/Launch Step Configuration Msg.lvclass"/>
 	</Item>
 	<Item Name="Controller.lvclass" Type="LVClass" URL="../Controller.lvclass"/>
 </Library>

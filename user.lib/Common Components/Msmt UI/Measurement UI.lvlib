@@ -10,6 +10,7 @@
 		<Item Name="Display Hardware Devices Msg.lvclass" Type="LVClass" URL="../Messages/Display Hardware Devices Msg/Display Hardware Devices Msg.lvclass"/>
 		<Item Name="Display Results.lvclass" Type="LVClass" URL="../../User Interface/Messages/Display Results/Display Results.lvclass"/>
 		<Item Name="Launch Hardware Settings Msg.lvclass" Type="LVClass" URL="../../Measurement UI Messages/Launch Hardware Settings Msg/Launch Hardware Settings Msg.lvclass"/>
+		<Item Name="Launch Step Configuration Msg.lvclass" Type="LVClass" URL="../../Measurement UI Messages/Launch Step Configuration Msg/Launch Step Configuration Msg.lvclass"/>
 		<Item Name="List of Measurements Message.lvclass" Type="LVClass" URL="../Messages/List of Measurements Message/List of Measurements Message.lvclass"/>
 		<Item Name="Prompt User for File Path to Load From.lvclass" Type="LVClass" URL="../Messages/Prompt User for Path to load/Prompt User for File Path to Load From.lvclass"/>
 		<Item Name="Send Get Hardware Info Message.lvclass" Type="LVClass" URL="../Messages/Send Get Hardware Info Message/Send Get Hardware Info Message.lvclass"/>

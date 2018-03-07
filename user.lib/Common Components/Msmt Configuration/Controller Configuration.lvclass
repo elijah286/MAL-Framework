@@ -20,7 +20,7 @@
 </Property>
 	<Property Name="NI.LVClass.IsTransferClass" Type="Bool">false</Property>
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.8</Property>
-	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"V!!!!!B.$&lt;WZG;7&gt;V=G&amp;U;7^O,GRW&lt;'FC&amp;5.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=V"53$!!!!!`!!!!!QE]&gt;8.F=GRJ9DY;1W^O:GFH&gt;8*B&gt;'FP&lt;C"%;7&amp;M&lt;W=A17.U&lt;X)61W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!!!!!!</Property>
+	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"O!!!!!B.$&lt;WZG;7&gt;V=G&amp;U;7^O,GRW&lt;'FC&amp;5.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=V"53$!!!!!Y!!%!"Q!!!!!!'%6Y&gt;'6O=WFC&lt;'5N1W^O:GFH,52J97RP:R6$&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!!!!!</Property>
 	<Item Name="Controller Configuration.ctl" Type="Class Private Data" URL="Controller Configuration.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
