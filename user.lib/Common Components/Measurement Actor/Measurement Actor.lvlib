@@ -9,6 +9,8 @@
 		<Item Name="Close Msg.lvclass" Type="LVClass" URL="../Messages/Close Msg/Close Msg.lvclass"/>
 		<Item Name="Configure Msg.lvclass" Type="LVClass" URL="../Messages/Configure Msg/Configure Msg.lvclass"/>
 		<Item Name="Measure Msg.lvclass" Type="LVClass" URL="../Messages/Measure Msg/Measure Msg.lvclass"/>
+		<Item Name="Publish Latest Data to Logger Msg.lvclass" Type="LVClass" URL="../../Measurement Messages/Publish Latest Data to Logger Msg/Publish Latest Data to Logger Msg.lvclass"/>
+		<Item Name="Update CVT Msg.lvclass" Type="LVClass" URL="../../Measurement Messages/Update CVT Msg/Update CVT Msg.lvclass"/>
 	</Item>
 	<Item Name="Measurement.lvclass" Type="LVClass" URL="../Measurement.lvclass"/>
 	<Item Name="Step Configuration.lvclass" Type="LVClass" URL="../Configuration/Step Configuration.lvclass"/>
