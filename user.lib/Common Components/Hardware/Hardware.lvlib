@@ -30,6 +30,6 @@
 	</Item>
 	<Item Name="Hardware" Type="Folder">
 		<Item Name="Hardware.lvclass" Type="LVClass" URL="../Hardware.lvclass"/>
+		<Item Name="HW Configuration.lvclass" Type="LVClass" URL="../HW Config/HW Configuration.lvclass"/>
 	</Item>
-	<Item Name="HW Configuration.lvclass" Type="LVClass" URL="../HW Config/HW Configuration.lvclass"/>
 </Library>
