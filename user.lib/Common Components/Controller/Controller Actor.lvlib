@@ -25,6 +25,7 @@
 		<Item Name="Apply Hardware Configurations Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Apply Hardware Configurations Msg/Apply Hardware Configurations Msg.lvclass"/>
 		<Item Name="Apply Step Configuration Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Apply Step Configuration Msg/Apply Step Configuration Msg.lvclass"/>
 		<Item Name="Launch Step Configuration Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Launch Step Configuration Msg/Launch Step Configuration Msg.lvclass"/>
+		<Item Name="Update lookup table of devices on system.lvclass" Type="LVClass" URL="../../Controller Messages/Scan for actual devices on system Msg/Update lookup table of devices on system.lvclass"/>
 	</Item>
 	<Item Name="Controller.lvclass" Type="LVClass" URL="../Controller.lvclass"/>
 </Library>
