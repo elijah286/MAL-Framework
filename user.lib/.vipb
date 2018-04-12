@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2013-07-29 22:13:56" Modified_Date="2018-03-20 08:39:55" Creator="Elijah Kerry" Comments="" ID="c4686eb9807ff9fed7474d33ba152f6a">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2013-07-29 22:13:56" Modified_Date="2018-04-11 09:35:59" Creator="Elijah Kerry" Comments="" ID="8e39839e184568b4083b009289127e34">
   <Library_General_Settings>
     <Package_File_Name>national_instruments_lib_msmt_framework_common_components</Package_File_Name>
-    <Library_Version>4.1.0.64</Library_Version>
+    <Library_Version>4.1.1.64</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\Desktop\Build Output</Library_Output_Folder>
@@ -54,7 +54,8 @@
       <Release_Notes>Major new version
 - Hardware has a configuration dialog for passing parameters
 - User can define iterations for acquisition
-- User can execute a measurement indefinitely</Release_Notes>
+- User can execute a measurement indefinitely
+- Adds configuraiton for output</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -261,7 +262,7 @@
         <Path>Measurement Actor\Hardware Prototypes</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FF05DBC2D77400629890492AFBFEECCC</GUID>
+      <GUID>31C18A98F321DDFC1882CD7E4CCFD626</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -380,7 +381,7 @@
         <Path>Common Components\Measurement Actor\Initialize Measurement Actor Core.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A2C28CCDC68A976755D747FDBF12E64D</GUID>
+      <GUID>C11E20E90E71D5AE708761F15ED24E2C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -639,7 +640,7 @@
         <Path>Common Components\Controller\Messages\Measurement Done Message\Read Unique Identifier.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F49071166907A96529F83CE525593C2B</GUID>
+      <GUID>C219C1BA0B89791E6F5A196EEBE1A52C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -674,7 +675,7 @@
         <Path>Common Components\Hardware\is a.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C3E2E3D1364D8FB2292C8569877D368B</GUID>
+      <GUID>85E731F14A186802180EF7587DA9E68A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -751,7 +752,7 @@
         <Path>Measurement Actor\Hardware Prototypes\Scope</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>57480BF19E0BC60AE95AFB4BC813D065</GUID>
+      <GUID>34023B744E85FE567555EF72199A1747</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -842,7 +843,7 @@
         <Path>Measurement Actor\Messages\Measure Msg</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9A40737C37F8E60D777B758DF0D2C019</GUID>
+      <GUID>B486F2B2F9AEF131F8A183AEC8609CBB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -905,7 +906,7 @@
         <Path>Common Components\Measurement Actor\Properties\Write Unique Identifier 2.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>68097004E1A3F0B02B1E1A70E8EF4FC7</GUID>
+      <GUID>DFE03D65CBE26D9EF03762DED6D702DB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1066,7 +1067,7 @@
         <Path>Common Components\Hardware\DMM\Run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2ACB6574CE9C0591AC5FF8E499C3CB76</GUID>
+      <GUID>30E9174675AD3D48DD53D9435F811C07</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1115,7 +1116,7 @@
         <Path>Common Components\Hardware\is a.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BD7D4B6F1256D16857311669A1961D2E</GUID>
+      <GUID>CF242C4C05E5274ACE2812F7EA0C9ACA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1206,7 +1207,7 @@
         <Path>Common Components\Hardware\PSU\Set Voltage.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C9360281AF638C46E9C09A24B744A6CF</GUID>
+      <GUID>E5153EA616C6BC5222F20E8FD49AE2A4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1255,7 +1256,7 @@
         <Path>Common Components\Hardware\Scope\ReadMaxAmp.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6342F6DFBE76AB569173EC868FB63C29</GUID>
+      <GUID>7C6CEF8430E1CA8B3D532CBF585656E1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -1318,7 +1319,7 @@
         <Path>Common Components\Hardware\DMM\Accessors\Write Range.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>63B50B0C6C3B647280AC44C6E20A393F</GUID>
+      <GUID>28ECF42E69D479D83B68F470030FE5E8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1353,7 +1354,7 @@
         <Path>Common Components\Controller\Messages\Add Available Measurement Msg\Do.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E7DB93B1464D6F58729ED7083C974641</GUID>
+      <GUID>AE5121483FFD54E65010F3714AEA8052</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1402,7 +1403,7 @@
         <Path>Common Components\Measurement Actor\Messages\Acquire Msg\Send Acquire.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E7529487962C862181F2E8E6011ED4D</GUID>
+      <GUID>8F909978F7CF74CF9D5331F647B02FF6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1451,7 +1452,7 @@
         <Path>Common Components\Measurement Actor\Messages\Close Msg\Send Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0007AFFC3566CAB9A651512309C97E7C</GUID>
+      <GUID>DF503423A441D518EEBBC55E37883B2B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1500,7 +1501,7 @@
         <Path>Common Components\Measurement Actor\Messages\Configure Msg\Send Configure.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>71714C6087D93023D6BAA41A697FB4BE</GUID>
+      <GUID>9A88E7C31EE64E98F6691876A1F71325</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1549,7 +1550,7 @@
         <Path>Common Components\Measurement Actor\Messages\Measure Msg\Send Measure.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7BD597D83B83A61640BD50C57850D091</GUID>
+      <GUID>6BA5B855953F6110C5C9FA05C4E08B3E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
