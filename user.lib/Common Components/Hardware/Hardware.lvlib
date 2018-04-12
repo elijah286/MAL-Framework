@@ -9,8 +9,8 @@
 			<Item Name="Cooling System.lvclass" Type="LVClass" URL="../Cooling System/Cooling System.lvclass"/>
 		</Item>
 		<Item Name="DAQ" Type="Folder">
-			<Item Name="DAQ .lvclass" Type="LVClass" URL="../DAQ/DAQ .lvclass"/>
-			<Item Name="DAQ Configuration.lvclass" Type="LVClass" URL="../DAQ/config/DAQ Configuration.lvclass"/>
+			<Item Name="DAQ .lvclass" Type="LVClass" URL="../../../../../Hardware/DAQ/DAQ .lvclass"/>
+			<Item Name="DAQ Configuration.lvclass" Type="LVClass" URL="../../../../../Hardware/DAQ/config/DAQ Configuration.lvclass"/>
 		</Item>
 		<Item Name="DMM" Type="Folder">
 			<Item Name="DMM.lvclass" Type="LVClass" URL="../DMM/DMM.lvclass"/>
@@ -31,5 +31,6 @@
 	<Item Name="Hardware" Type="Folder">
 		<Item Name="Hardware.lvclass" Type="LVClass" URL="../Hardware.lvclass"/>
 		<Item Name="HW Configuration.lvclass" Type="LVClass" URL="../HW Config/HW Configuration.lvclass"/>
+		<Item Name="HW with output config.lvclass" Type="LVClass" URL="../HW with output config.lvclass"/>
 	</Item>
 </Library>
