@@ -8,10 +8,6 @@
 		<Item Name="Cooling System" Type="Folder">
 			<Item Name="Cooling System.lvclass" Type="LVClass" URL="../Cooling System/Cooling System.lvclass"/>
 		</Item>
-		<Item Name="DAQ" Type="Folder">
-			<Item Name="DAQ .lvclass" Type="LVClass" URL="../../../../../Hardware/DAQ/DAQ .lvclass"/>
-			<Item Name="DAQ Configuration.lvclass" Type="LVClass" URL="../../../../../Hardware/DAQ/config/DAQ Configuration.lvclass"/>
-		</Item>
 		<Item Name="DMM" Type="Folder">
 			<Item Name="DMM.lvclass" Type="LVClass" URL="../DMM/DMM.lvclass"/>
 		</Item>

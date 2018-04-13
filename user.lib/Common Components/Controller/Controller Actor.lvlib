@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Messages" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Launch Measurements Message.lvclass" Type="LVClass" URL="../Messages/Launch Measurements Message/Launch Measurements Message.lvclass"/>
@@ -25,7 +26,7 @@
 		<Item Name="Apply Hardware Configurations Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Apply Hardware Configurations Msg/Apply Hardware Configurations Msg.lvclass"/>
 		<Item Name="Apply Step Configuration Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Apply Step Configuration Msg/Apply Step Configuration Msg.lvclass"/>
 		<Item Name="Launch Step Configuration Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Launch Step Configuration Msg/Launch Step Configuration Msg.lvclass"/>
-		<Item Name="Update lookup table of devices on system.lvclass" Type="LVClass" URL="../../Controller Messages/Scan for actual devices on system Msg/Update lookup table of devices on system.lvclass"/>
+		<Item Name="Update lookup table of devices on system Msg.lvclass" Type="LVClass" URL="../../Controller Messages/Update lookup table of devices on system Msg/Update lookup table of devices on system Msg.lvclass"/>
 	</Item>
 	<Item Name="Controller.lvclass" Type="LVClass" URL="../Controller.lvclass"/>
 </Library>
