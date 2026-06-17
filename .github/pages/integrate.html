@@ -679,7 +679,6 @@
         "    paths:",
         "      - '.github/labview-ci.yml'",
         "      - '.github/workflows/dashboard-pages.yml'",
-        "  status:",
         "  workflow_run:",
         "    workflows:",
         '      - "Mass Compile \u2014 Windows Container"',
@@ -761,9 +760,9 @@
       if (existing != null) {
         if (/labview-ci:dashboard/.test(existing)) return null;
         const sep = existing.endsWith("\n") ? "\n" : "\n\n";
-        return { path, content: readmeSection(repo) + sep + existing, isText: true };
+        return { path, content: existing + sep + readmeSection(repo), isText: true };
       }
-      return { path: "README.md", content: readmeSection(repo) + "\n\n# " + repo.split("/")[1], isText: true };
+      return { path: "README.md", content: `# ${repo.split("/")[1]}\n\n` + readmeSection(repo), isText: true };
     }
 
     // Create an orphan gh-pages branch with a placeholder, so Pages can be enabled
