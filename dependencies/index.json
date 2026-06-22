@@ -1,0 +1,329 @@
+{
+  "schema": 1,
+  "repo": "elijah286/MAL-Framework",
+  "sha": "540237f1f43ecaf66b270921ba14ad5fa93db729",
+  "revisions": [
+    {
+      "sha": "540237f1f43ecaf66b270921ba14ad5fa93db729",
+      "short": "540237f",
+      "message": "Add LabVIEW CI pipeline",
+      "author": "Elijah Kerry",
+      "date": "2026-06-22T20:36:37Z"
+    },
+    {
+      "sha": "4060cd4397491ab78fc641b5608a5e502303ddd3",
+      "short": "4060cd4",
+      "message": "Add LabVIEW CI pipeline",
+      "author": "Elijah Kerry",
+      "date": "2026-06-17T11:42:07Z"
+    },
+    {
+      "sha": "812a18ac781893534939f6607fdbaf642db42a2c",
+      "short": "812a18a",
+      "message": "Add LabVIEW CI pipeline",
+      "author": "Elijah Kerry",
+      "date": "2026-06-17T04:06:54Z"
+    },
+    {
+      "sha": "a60085b73e278b9e6cd76ad5d664dce0feb47745",
+      "short": "a60085b",
+      "message": "Fixed Vi corruption",
+      "author": "elijahkerry",
+      "date": "2018-04-13T17:13:36Z"
+    },
+    {
+      "sha": "00c472930fb02af10a6a269fe905fb748f64e24e",
+      "short": "00c4729",
+      "message": "fixed VI corruption",
+      "author": "elijahkerry",
+      "date": "2018-04-12T19:25:38Z"
+    },
+    {
+      "sha": "94b797c1cfa31bd0f5369e25ddcc1e28fa72f6b2",
+      "short": "94b797c",
+      "message": "Revert \"Revert \"modified to support generation output\"\"",
+      "author": "elijahkerry",
+      "date": "2018-04-12T14:28:57Z"
+    },
+    {
+      "sha": "aacb5ebe991a15d39aff31c3db32bd6bf8f75631",
+      "short": "aacb5eb",
+      "message": "Revert \"modified to support generation output\"",
+      "author": "elijahkerry",
+      "date": "2018-04-12T14:24:14Z"
+    },
+    {
+      "sha": "f868b42734bebc7fdcdd44659d98f7c9629bbd28",
+      "short": "f868b42",
+      "message": "modified to support generation output",
+      "author": "elijahkerry",
+      "date": "2018-04-11T03:28:52Z"
+    },
+    {
+      "sha": "af45835222d9b783e601ce22ce505f17c907082f",
+      "short": "af45835",
+      "message": "io mapping works",
+      "author": "elijahkerry",
+      "date": "2018-03-20T13:41:14Z"
+    },
+    {
+      "sha": "d498ca93e51598a3dad313e3c3bed535552bc56a",
+      "short": "d498ca9",
+      "message": "io mapping works",
+      "author": "elijahkerry",
+      "date": "2018-03-20T13:40:17Z"
+    },
+    {
+      "sha": "150fc4aaa9ee34236f43f2bd8e92f09c3d45ef10",
+      "short": "150fc4a",
+      "message": "logging and config improvements",
+      "author": "elijahkerry",
+      "date": "2018-03-20T05:33:31Z"
+    },
+    {
+      "sha": "d50320dc0346246094c62a13ac9c4e8a9885cdb6",
+      "short": "d50320d",
+      "message": "successful build",
+      "author": "elijahkerry",
+      "date": "2018-03-07T11:09:40Z"
+    },
+    {
+      "sha": "e1a4efc451c230b81986770a8e6a17c15acd55b8",
+      "short": "e1a4efc",
+      "message": "various improvements and TS adapter support",
+      "author": "elijahkerry",
+      "date": "2018-03-07T04:55:30Z"
+    },
+    {
+      "sha": "28b0f1e853a91459a60b1b5ad85efd97cde22cf7",
+      "short": "28b0f1e",
+      "message": "fixed bug",
+      "author": "elijahkerry",
+      "date": "2018-03-06T04:04:29Z"
+    },
+    {
+      "sha": "6c130fabcf1db64710f7450330f46bf5a9ac979c",
+      "short": "6c130fa",
+      "message": "successful build",
+      "author": "elijahkerry",
+      "date": "2018-03-06T02:48:34Z"
+    },
+    {
+      "sha": "b35b4327b0758f59cf53bac74ecd437ea2b983ed",
+      "short": "b35b432",
+      "message": "Double loading bug",
+      "author": "elijahkerry",
+      "date": "2018-03-05T04:16:30Z"
+    },
+    {
+      "sha": "13d7a1f06e6406e5d81cb5078c3f90b2a4dca1c7",
+      "short": "13d7a1f",
+      "message": "about to refactor load",
+      "author": "elijahkerry",
+      "date": "2018-03-05T03:19:16Z"
+    },
+    {
+      "sha": "e139a7416afeaf7cc354a1a3918555adb8171d7f",
+      "short": "e139a74",
+      "message": "Successful build with VIPM",
+      "author": "elijahkerry",
+      "date": "2018-03-04T21:40:28Z"
+    },
+    {
+      "sha": "a281c759a739650d4679f1d34627593829baee7a",
+      "short": "a281c75",
+      "message": "Work for NIWeek 2018",
+      "author": "elijahkerry",
+      "date": "2018-03-04T15:52:40Z"
+    },
+    {
+      "sha": "183822950f4dc838db099d081df710576c65127c",
+      "short": "1838229",
+      "message": "major changes",
+      "author": "elijahkerry",
+      "date": "2018-03-02T05:02:54Z"
+    },
+    {
+      "sha": "9ae34c492fdf1a67b16a97b8a2c4c414313c5450",
+      "short": "9ae34c4",
+      "message": "fixed template",
+      "author": "Elijah Kerry",
+      "date": "2016-12-09T19:17:08Z"
+    },
+    {
+      "sha": "77a6de73a295d5bba06ce114c2fb7d8a3587c8e0",
+      "short": "77a6de7",
+      "message": "Made core framework work on 64-bit",
+      "author": "elijah286",
+      "date": "2016-10-16T03:44:18Z"
+    },
+    {
+      "sha": "1aeef33a039d8c74d589072e223c157663971696",
+      "short": "1aeef33",
+      "message": "Moving everything from SVN",
+      "author": "elijah286",
+      "date": "2016-07-25T01:48:01Z"
+    }
+  ],
+  "config": {
+    "use": "",
+    "actions": {},
+    "vipc": []
+  },
+  "vipc": [
+    {
+      "path": "github/labview/vipm/ci-tooling.vipc",
+      "configured": false,
+      "packages": [],
+      "error": "[Errno 2] No such file or directory: 'github/labview/vipm/ci-tooling.vipc'"
+    },
+    {
+      "path": "Template/.vipc",
+      "configured": false,
+      "packages": [
+        "oglib_appcontrol-4.1.0.7",
+        "oglib_array-4.1.1.14",
+        "oglib_error-4.2.0.23",
+        "oglib_file-4.0.1.22",
+        "oglib_lvdata-4.2.0.21",
+        "oglib_string-4.1.0.12"
+      ],
+      "error": ""
+    },
+    {
+      "path": "user.lib/.vipc",
+      "configured": false,
+      "packages": [
+        "national_instruments_lib_configuration_dialog_actor-1.1.1.23",
+        "national_instruments_lib_guid_generator-1.0.2.2",
+        "ni_lib_cvt-3.3.0.13",
+        "oglib_appcontrol-4.1.0.7",
+        "oglib_array-4.1.1.14",
+        "oglib_error-4.2.0.23",
+        "oglib_file-4.0.1.22",
+        "oglib_lvdata-4.2.0.21",
+        "oglib_string-4.1.0.12",
+        "oglib_variantconfig-4.0.0.5"
+      ],
+      "error": ""
+    }
+  ],
+  "nipm": [
+    {
+      "name": "LabVIEW",
+      "source": "NI Package Manager",
+      "labview": true,
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "details": "LabVIEW runtime and development packages from the NI feeds."
+    },
+    {
+      "name": "VI Analyzer support",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-viawin-labview-support"
+        ],
+        "linux": [
+          "ni-vialin-labview-support"
+        ]
+      },
+      "platforms": [
+        "windows",
+        "linux"
+      ],
+      "details": "NI VI Analyzer support package used by the analyzer runners."
+    },
+    {
+      "name": "NI Unit Test Framework",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-utf-labview-support"
+        ]
+      },
+      "platforms": [
+        "windows"
+      ],
+      "details": "NI UTF support package used by the Windows unit-test runner."
+    },
+    {
+      "name": "VI Package Manager",
+      "source": "NI Package Manager",
+      "packages": {
+        "windows": [
+          "ni-vipm"
+        ]
+      },
+      "platforms": [
+        "windows"
+      ],
+      "details": "NI-published VIPM package that enables VIPC application during Windows worker builds."
+    }
+  ],
+  "system": [
+    {
+      "name": "VI Browser 2.0 toimages runner",
+      "source": "Repository Go code",
+      "path": ".github/labview/toimages/main.go",
+      "details": "Batch runner compiled from repo Go source; Linux uses the toimages GHCR image and Windows builds runner.exe in the workflow.",
+      "platforms": {
+        "windows": {
+          "present": true,
+          "label": "workflow-built"
+        },
+        "linux": {
+          "present": true,
+          "label": "toimages image"
+        }
+      }
+    },
+    {
+      "name": "lvctl render engine",
+      "source": "Repository Go code + embedded VIs",
+      "path": ".github/labview/toimages/_ni/labview/lvctl",
+      "details": "Renderer used by VI Browser 2.0 to drive LabVIEW and emit position-aware frame JSON.",
+      "platforms": {
+        "windows": {
+          "present": true,
+          "label": "workflow-built"
+        },
+        "linux": {
+          "present": true,
+          "label": "toimages image"
+        }
+      }
+    }
+  ],
+  "columns": [
+    {
+      "key": "windows",
+      "label": "Windows",
+      "platform": "windows",
+      "defaultTag": "latest",
+      "tag": "latest",
+      "ready": false,
+      "packages": [],
+      "nipkg_ready": false,
+      "nipkg_packages": [],
+      "labview_version": "",
+      "version": "latest"
+    },
+    {
+      "key": "linux",
+      "label": "Linux",
+      "platform": "linux",
+      "tag": "base",
+      "ready": true,
+      "packages": [],
+      "version": "pending",
+      "unsupported": true,
+      "nipkg_ready": true,
+      "nipkg_packages": [],
+      "nipkg_version": "linux-c6484cf4d66a",
+      "labview_version": "2026"
+    }
+  ]
+}
