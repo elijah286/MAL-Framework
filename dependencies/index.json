@@ -438,10 +438,10 @@
       "packages": [],
       "version": "pending",
       "unsupported": true,
-      "nipkg_ready": false,
+      "nipkg_ready": true,
       "nipkg_packages": [],
-      "nipkg_version": "latest",
-      "labview_version": ""
+      "nipkg_version": "linux-c6484cf4d66a",
+      "labview_version": "2026"
     }
   ]
 }
